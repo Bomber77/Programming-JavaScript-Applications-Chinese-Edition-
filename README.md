@@ -1,1 +1,1 @@
-"# Programming-JavaScript-Applications-Chinese-Edition-" 
+# The Chinese Edition of Programming JavaScript Applications
